@@ -4,6 +4,13 @@
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-LSTM-ee4c2c) ![gensim](https://img.shields.io/badge/gensim-Word2Vec-green) ![HF tokenizers](https://img.shields.io/badge/🤗-tokenizers-yellow)
 
+**Notebooks**: for the best reading experience, open them in nbviewer (full-page rendering) or Colab:
+
+| Notebook | Read | Run |
+|---|---|---|
+| `text_classification_and_char_rnn.ipynb` | [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/bloch-ai-engineering/seq-models-nlp/blob/main/notebooks/text_classification_and_char_rnn.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bloch-ai-engineering/seq-models-nlp/blob/main/notebooks/text_classification_and_char_rnn.ipynb) |
+
+
 ## Part 1: AG News topic classification
 
 ```
